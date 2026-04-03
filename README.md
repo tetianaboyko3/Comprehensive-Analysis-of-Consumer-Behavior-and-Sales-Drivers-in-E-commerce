@@ -96,4 +96,5 @@ BI‑інструменти - Power BI
 *  Провести аудит доставки
 *  Оптимізувати регіональну стратегію
   
-# Dashboard Power BI 
+# Power BI Dashboard 
+<img width="1485" height="847" alt="дашборд" src="https://github.com/user-attachments/assets/b456d35e-0b80-416f-9bde-ed87d7afe762" />
