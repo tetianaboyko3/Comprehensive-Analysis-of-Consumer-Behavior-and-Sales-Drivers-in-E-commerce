@@ -1,4 +1,4 @@
-# Comprehensive-Analysis-of-Consumer-Behavior-and-Sales-Drivers-in-E-commerce
+# Comprehensive Analysis of Consumer Behavior and Sales Drivers in E-commerce
 # Мета  проєкту
 Провести комплексний аналіз поведінки клієнтів в e-commerce та виявити , як демографія, товари, ціни, знижки, доставка та інші фактори впливають на дохід і задоволеність клієнтів, щоб оптимізувати маркетинг, асортимент і бізнес-стратегію.
 # Опис набору даних
