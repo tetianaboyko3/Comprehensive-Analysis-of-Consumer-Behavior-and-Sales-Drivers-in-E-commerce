@@ -44,7 +44,7 @@ graph LR
    
 Джерело: дані завантажено з [Customer Shopping Trends Dataset](https://www.kaggle.com/datasets/abdallahabuelftouh/shopping-trends/data).
 
-Середовище: робота проводилася в Google Colab для забезпечення відтворюваності коду.
+Середовище: робота проводилася в Google Colab для забезпечення відтворення коду.
 
 ## 2. Очищення
 Виконано перевірку на дублікати та обробку пустих значень (NaN). 
