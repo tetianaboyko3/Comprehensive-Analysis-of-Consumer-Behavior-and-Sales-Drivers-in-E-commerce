@@ -42,9 +42,9 @@ graph LR
 ```
 ## 1. Підготовка даних
    
-Джерело: Дані завантажено з [Customer Shopping Trends Dataset](https://www.kaggle.com/datasets/abdallahabuelftouh/shopping-trends/data).
+Джерело: дані завантажено з [Customer Shopping Trends Dataset](https://www.kaggle.com/datasets/abdallahabuelftouh/shopping-trends/data).
 
-Середовище: Робота велася в Google Colab для забезпечення відтворюваності коду.
+Середовище: робота проводилася в Google Colab для забезпечення відтворюваності коду.
 
 ## 2. Очищення
 Виконано перевірку на дублікати та обробку пустих значень (NaN). 
